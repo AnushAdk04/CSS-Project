@@ -31,3 +31,23 @@ body{
     font-size: 50px;
     margin-bottom: 30px;
 }
+
+.text-section p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.text-section button{
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #087f5b;
+    color: white;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.text-section button:hover{
+    background-color: #035c41;
+}
