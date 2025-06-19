@@ -203,3 +203,13 @@ i{
 .payment p{
     font-weight: bolder;
 }
+
+.copyright{
+    background-color: #035c41;
+    padding: 10px;
+}
+
+.copyright p{
+    color: white;
+    text-align: center;
+}
